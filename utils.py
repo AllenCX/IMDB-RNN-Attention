@@ -1,6 +1,6 @@
 import numpy as np
 import json
-def load_data(imdb_path="imdb.npz", 
+def load_imdb_data(imdb_path="imdb.npz", 
               word_index_json_path="imdb_word_index.json", 
               seed=0):
     
