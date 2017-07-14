@@ -10,5 +10,5 @@ To run:
 2. Set hypyerparameters in config.py
 3. run 
 '''
-	python imdb-bi-rnn-attention.py
+python imdb-bi-rnn-attention.py
 '''
